@@ -53,3 +53,11 @@ module "azurerm_ea_subscription" {
   - review
   - merge
   - process
+
+
+```
+this is one component that on it's own is intentionally basic so that you can very quickly adapt for you own use
+it is intended to add other components that together offer powerful automation options
+
+full automation, self service operational and SDLC vending 
+``` 
